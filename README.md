@@ -25,7 +25,7 @@ objektet över dem.
 
 Bilder läggs i samma mapp som markdown-filen.
 (det finns en bild, men den visas inte eftersom det är exempel bild)
-![](![img.png](img.png))
+![](ScreenLogScreen.png)
 
 Läs gärna:
 
